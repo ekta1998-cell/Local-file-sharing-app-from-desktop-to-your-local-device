@@ -16,7 +16,7 @@ This Python script sets up a basic HTTP web server on your local machine and gen
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/your-repository-name.git
+    git clone https://github.com/ekta1998-cell/Local-file-sharing-app-from-desktop-to-your-local-device.git
     ```
 2. Navigate to the project directory:
     ```bash
